@@ -2,7 +2,7 @@ document.querySelector('button').addEventListener('click', function (evt) {
     console.log(evt)
 })
 
-/*const input = document.querySelector('input');
+const input = document.querySelector('input');
 input.addEventListener('keydown', function (e) {
     console.log(e.key)
     console.log(e.code)
@@ -10,7 +10,7 @@ input.addEventListener('keydown', function (e) {
 
 input.addEventListener('keydown', function () {
     console.log("keyup")
-})*/
+})
 
 window.addEventListener('keydown', function (e) {
     switch (e.code) {
