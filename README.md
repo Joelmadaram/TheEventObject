@@ -1,1 +1,1 @@
-The excercise emphasizes on keyboardEvents using theeventObjects concept.
+The excercise emphasizes on keyboardEvents using theEventObjects concept.
